@@ -110,7 +110,7 @@ input , textarea{
 }
 
 .login{
-  background-image: linear-gradient(to top, #37d109 0%, #0898eb 100%);
+  background-color: white;
   height: 100vh !important;
 }
 .login-form{
@@ -118,7 +118,7 @@ input , textarea{
 }
 
 .register{
-  background-image: linear-gradient(to top, #0898eb 0%, #37d109 100%);
+  background-color:white;
   height: 100vh !important;
 }
 .register-form{
